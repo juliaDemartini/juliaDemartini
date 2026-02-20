@@ -46,11 +46,10 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" alt="GitHub Streak" height="150"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=juliaDemartini&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" />
 
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### Contato
