@@ -8,13 +8,15 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 ### 🛠️ Tecnologias & Conhecimentos
 ---
 
-### 📜 Certificações Oficiais
-<a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/00634f4a-0b2a-430c-8bd8-54526017e475/Certified_Cloud_Practitioner_sample_600x600.png" width="120" height="120" alt="AWS Certified Cloud Practitioner">
-</a>
-<a href="https://www.credly.com/badges/60646948-62ce-4e65-a492-e1a5226e9c2f" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/29729a99-4c07-427c-9b62-1082502755ad/image.png" width="120" height="120" alt="AWS re/Start Graduate">
-</a>
+### 📜 Certificações
+<p align="left">
+  <a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/60646948-62ce-4e65-a492-e1a5226e9c2f" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS re/Start">
+  </a>
+</p>
 ---
 
 **Linguagens & Frameworks:**
@@ -43,8 +45,8 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaDemartini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juliaDemartini&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Status do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=visual_studio_code" alt="Linguagens mais usadas" height="150">
 </p>
 
 ---
