@@ -7,7 +7,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 ---
 ### 🛠️ Tecnologias & Conhecimentos
 
-**Certificações**
+**Certificações:**
 <p align="left">
   <a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Practitioner">
@@ -50,6 +50,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### Contato
