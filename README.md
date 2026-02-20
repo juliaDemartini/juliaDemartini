@@ -6,7 +6,6 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ---
 ### 🛠️ Tecnologias & Conhecimentos
----
 
 ### 📜 Certificações
 <p align="left">
@@ -17,6 +16,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
     <img src="https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS re/Start">
   </a>
 </p>
+
 ---
 
 **Linguagens & Frameworks:**
@@ -44,14 +44,15 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 ---
 
 ### 📊 Estatísticas
+### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaDemartini&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Status do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=visual_studio_code" alt="Linguagens mais usadas" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
 </p>
 
 ---
 
 ### 📫 Vamos nos conectar?
-[LinkedIn](www.linkedin.com/in/juliademartini) | 
+[LinkedIn](www.linkedin.com/in/juliademartini) 
 
 > "Transformando aprendizado contínuo em soluções tecnológicas eficientes."
