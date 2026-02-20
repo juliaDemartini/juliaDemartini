@@ -43,7 +43,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ---
 
-### 📊 Estatísticas
+
 ### 📊 Estatísticas
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" alt="GitHub Streak" height="150"/>
@@ -52,7 +52,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ---
 
-### 📫 Vamos nos conectar?
+### Contato
 [LinkedIn](www.linkedin.com/in/juliademartini) 
 
 > "Transformando aprendizado contínuo em soluções tecnológicas eficientes."
