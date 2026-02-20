@@ -6,6 +6,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ---
 ### 🛠️ Tecnologias & Conhecimentos
+---
 
 ### 📜 Certificações Oficiais
 <a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
@@ -14,6 +15,7 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 <a href="https://www.credly.com/badges/60646948-62ce-4e65-a492-e1a5226e9c2f" target="_blank">
   <img src="https://images.credly.com/size/220x220/images/29729a99-4c07-427c-9b62-1082502755ad/image.png" width="120" height="120" alt="AWS re/Start Graduate">
 </a>
+---
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
