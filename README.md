@@ -2,11 +2,18 @@
 
 **Engenharia de Software | Cloud Enthusiast | Full Stack Student**
 
-Sou graduanda em **Engenharia de Software** e **Sistemas de Informação**. Atualmente, foco em construir soluções escaláveis e eficientes, unindo a base sólida da computação acadêmica com o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.
+Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.
 
 ---
-
 ### 🛠️ Tecnologias & Conhecimentos
+
+### 📜 Certificações Oficiais
+<a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/00634f4a-0b2a-430c-8bd8-54526017e475/Certified_Cloud_Practitioner_sample_600x600.png" width="120" height="120" alt="AWS Certified Cloud Practitioner">
+</a>
+<a href="https://www.credly.com/badges/60646948-62ce-4e65-a492-e1a5226e9c2f" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/29729a99-4c07-427c-9b62-1082502755ad/image.png" width="120" height="120" alt="AWS re/Start Graduate">
+</a>
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,9 +29,6 @@ Sou graduanda em **Engenharia de Software** e **Sistemas de Informação**. Atua
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-* 📜 **Certificação:** AWS Certified Cloud Practitioner ☁️
-* 🎓 **Educação:** Cursando Engenharia de Software e Sistemas de Informação.
-
 ---
 
 ### 🚀 Trajetória e Experiência
@@ -33,24 +37,17 @@ Sou graduanda em **Engenharia de Software** e **Sistemas de Informação**. Atua
 * Atuação no ciclo de vida de aplicações, trabalhando com manutenção e criação de interfaces.
 * Foco em garantir a fluidez da experiência do usuário e a integridade do código.
 
-**🔬 Pesquisa e Inovação (Bolsista FAPERJ)**
-* Participação em projetos de inovação tecnológica, aplicando métodos científicos para o desenvolvimento de soluções computacionais.
-
-**📚 Formação Complementar**
-* Técnico em Informática concluído (Sólida base em Lógica de Programação).
-* Inglês voltado para leitura técnica e comunicação.
-
 ---
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaDemartini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📫 Vamos nos conectar?
-[LinkedIn](SEU_LINK_AQUI) | [E-mail](SEU_EMAIL_AQUI)
+[LinkedIn](www.linkedin.com/in/juliademartini) | 
 
 > "Transformando aprendizado contínuo em soluções tecnológicas eficientes."
