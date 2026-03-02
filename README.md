@@ -1,7 +1,6 @@
 ![Julia Demartini](./julia-demartini.svg)
 
 <div align="center">
-  <h3>Engenharia de Software | Cloud Enthusiast | Full Stack Student</h3>
   <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
 </div>
 
