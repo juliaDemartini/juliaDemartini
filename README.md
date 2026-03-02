@@ -1,10 +1,6 @@
 ![Julia Demartini](./julia-demartini.svg)
 
-<div align="left">
-  <h3 style="font-family: monospace; overflow: hidden; border-right: .15em solid orange; white-space: nowrap; margin: 0 auto; letter-spacing: .15em; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
-    Front-end com propósito e design intencional
-  </h3>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Front-end+com+propósito;Design+intencional;Desenvolvedora+Software+Engineering)](https://git.io/typing-svg)
 
 <style>
 @keyframes typing {
