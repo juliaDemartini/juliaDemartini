@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=8a2be2,da70d6&width=1000&height=250&section=header&text=Julia%20Demartini&fontSize=70&fontAlignY=40&animation=twinkling&desc=Engenharia%20de%20Software%20%7C%20Cloud%20Enthusiast&descSize=20&descAlignY=60" alt="Banner Animado" />
-</p>
+![Julia Demartini](./julia-demartini.svg)
 
 <div align="center">
   <h3>Engenharia de Software | Cloud Enthusiast | Full Stack Student</h3>
