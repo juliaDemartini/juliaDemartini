@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/render?type=wave&color=0070f3,8a2be2&width=1000&height=250&section=header&text=Julia%20&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Engenharia%20de%20Software&descSize=20&descAlignY=60)
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
