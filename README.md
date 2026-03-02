@@ -15,6 +15,7 @@
   <a href="https://juliaDemartini.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-0070f3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
+  <br>
 </div>
 <div align="center">
   <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
