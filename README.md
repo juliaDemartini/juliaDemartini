@@ -1,7 +1,11 @@
 ![Julia Demartini](./julia-demartini.svg)
-<center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Front-end+com+propósito;Design+intencional;Desenvolvedora+Software+Engineering)](https://git.io/typing-svg)
-</center>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;AWS+Cloud+Practitioner;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <div align="center">
   <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
