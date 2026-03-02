@@ -16,7 +16,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Engenharia+de+Software;AWS+Cloud+Practitioner;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-<div align="center">
 
 <div align="center">
   <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
@@ -27,7 +26,7 @@
 ### 🛠️ Tecnologias & Conhecimentos
 
 **Certificações:**
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/bc88edea-a215-448c-bd70-f947f66ae326" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Practitioner">
   </a>
@@ -36,6 +35,7 @@
     <img src="https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS re/Start">
   </a>
 </p>
+
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
