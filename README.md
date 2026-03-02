@@ -1,26 +1,18 @@
-![Header](https://capsule-render.vercel.app/render?type=wave&color=0070f3,8a2be2&width=1000&height=250&section=header&text=Julia%20&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Engenharia%20de%20Software&descSize=20&descAlignY=60)
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8a2be2">
-        <animate attributeName="stop-color" values="#8a2be2; #da70d6; #8a2be2" dur="5s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#da70d6">
-        <animate attributeName="stop-color" values="#da70d6; #4b0082; #da70d6" dur="5s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="200" fill="url(#gradient)" rx="10" />
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="white">
-    JULIA DEMARTINI
-  </text>
-</svg>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=8a2be2,da70d6&width=1000&height=250&section=header&text=Julia%20Demartini&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Engenharia%20de%20Software%20%7C%20Cloud%20Enthusiast&descSize=20&descAlignY=60" />
 
-**Engenharia de Software | Cloud Enthusiast | Full Stack Student**
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/juliaDemartini?label=Seguidores&style=for-the-badge&color=8a2be2&logo=github" />
+  </p>
+</div>
 
-Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas**. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.
+<div align="center">
+  <h3>Engenharia de Software | Cloud Enthusiast | Full Stack Student</h3>
+  <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
+</div>
 
 ---
+
 ### 🛠️ Tecnologias & Conhecimentos
 
 **Certificações:**
@@ -33,7 +25,6 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
     <img src="https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS re/Start">
   </a>
 </p>
-
 
 **Linguagens & Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,17 +50,15 @@ Sou graduanda em **Engenharia de Software** e **Análise e Desenvolvimento de Si
 
 ---
 
-
 ### 📊 Estatísticas
 <p align="left">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" />
-
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Contato
-[LinkedIn](www.linkedin.com/in/juliademartini) 
+### 📫 Contato
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliademartini)
 
 > "Transformando aprendizado contínuo em soluções tecnológicas eficientes."
