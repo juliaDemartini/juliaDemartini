@@ -1,5 +1,22 @@
 ![Julia Demartini](./julia-demartini.svg)
 
+<div align="left">
+  <h3 style="font-family: monospace; overflow: hidden; border-right: .15em solid orange; white-space: nowrap; margin: 0 auto; letter-spacing: .15em; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
+    Front-end com propósito e design intencional
+  </h3>
+</div>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+</style>
+
 <div align="center">
   <p>Sou graduanda em <b>Engenharia de Software</b> e <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, foco em construir soluções escaláveis e eficientes, unindo o aprendizado prático em desenvolvimento de software e arquitetura de nuvem.</p>
 </div>
