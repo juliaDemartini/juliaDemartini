@@ -1,4 +1,19 @@
-# 👋 Olá, eu sou a Julia Demartini!
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a2be2">
+        <animate attributeName="stop-color" values="#8a2be2; #da70d6; #8a2be2" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#da70d6">
+        <animate attributeName="stop-color" values="#da70d6; #4b0082; #da70d6" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#gradient)" rx="10" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="white">
+    JULIA DEMARTINI
+  </text>
+</svg>
 
 **Engenharia de Software | Cloud Enthusiast | Full Stack Student**
 
