@@ -53,14 +53,6 @@
 
 ---
 
-### 🚀 Trajetória e Experiência
-
-**💻 Estágio em Desenvolvimento de Software**
-* Atuação no ciclo de vida de aplicações, trabalhando com manutenção e criação de interfaces.
-* Foco em garantir a fluidez da experiência do usuário e a integridade do código.
-
----
-
 ### 📊 Estatísticas
 <p align="left">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" />
