@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 Estatísticas
-<p align="left">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliaDemartini&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliaDemartini&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliademartini)
 
