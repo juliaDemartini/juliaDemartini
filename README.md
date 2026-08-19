@@ -36,7 +36,11 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,cs,dotnet,git,github,java,mysql,nodejs,php)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,aws,cs,dotnet,git,github,java,mysql,nodejs,php" />
+  </a>
+</p>
  
 ---
 
