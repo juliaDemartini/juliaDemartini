@@ -35,11 +35,9 @@
     <img src="https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS re/Start">
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,cs,dotnet,git,github,java,mysql,nodejs,php)](https://skillicons.dev)
-  </a>
-</p>
+ 
 ---
 
 ### Contato
