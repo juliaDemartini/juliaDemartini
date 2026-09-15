@@ -43,7 +43,15 @@
 </p>
  
 ---
+##  Projetos em destaque
+- DNA Store — E-commerce com C#, ASP.NET Core, React e 3D, explorando provador virtual e recomendação de tamanho. Repositório privado enquanto o projeto está em desenvolvimento e passa pelos ajustes finais antes de ser disponibilizado publicamente.
+- ValorEco — Aplicação mobile com React Native, TypeScript, Firebase e IoT, voltada à sustentabilidade e economia circular.
+- URL Shortener — Encurtador de URLs Full Stack com C#, .NET 9, Minimal APIs, EF Core e SQLite.
+- Disputa Energética — Jogo mobile desenvolvido em Java e Android, criado como MVP em um sprint de duas semanas para educação sobre transição energética.
+  
+(Novos projetos em constante desenvolvimento 🚧)
 
+---
 ### Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliademartini)
 
